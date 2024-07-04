@@ -1,6 +1,7 @@
 # Hi there, I'm Aniket Aladamar! 👋
 
-I am a self-motivated and highly passionate fresher, pursuing a Bachelor of Technology in Computer Science and Engineering at RV University, Bangalore. I'm eager to work in an esteemed organization that will demand the best of my technical and analytical skills while offering professional challenges.
+I am a self-motivated and highly passionate fresher, pursuing a Bachelor of Technology in Computer Science and Engineering at RV University, Bangalore. Hope you are enjoying!!
+HAPPY CODING ^_^
 
 ---
 
