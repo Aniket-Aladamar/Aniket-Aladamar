@@ -1,13 +1,7 @@
 # Hi there, I'm Aniket Aladamar! 👋
 
-I am a self-motivated and highly passionate fresher, pursuing a Bachelor of Technology in Computer Science and Engineering at RV University, Bangalore. Hope you are enjoying!!
+I am a self-motivated and highly passionate fresher, pursuing a Bachelor of Technology in Computer Science and Engineering . Hope you are enjoying!!
 HAPPY CODING ^_^
-
----
-
-### 🚀 About Me
-- 🏫 **Education**: B.Tech (CSE), RV University, Bangalore
-- 🎯 **Interests**: Continuous learning, tackling new challenges
 
 ---
 
@@ -20,7 +14,6 @@ HAPPY CODING ^_^
 ---
 
 ### 🏆 Achievements
-- **IEEE CCEM Pre-Conference**: Best Paper Ideas (Runner up) for POLISH - 2023
 - **GDSC RVU**: CORE (2023-2024)
 - **NEURAL NEXUS**: CORE (2023)
 
@@ -29,7 +22,6 @@ HAPPY CODING ^_^
 ### 📫 Contact Me
 - **Email**: [aniketmaladamar@gmail.com](mailto:aniketmaladamar@gmail.com)
 - **LinkedIn**: [linkedin.com/in/aniket-aladamar](https://www.linkedin.com/in/aniket-aladamar)
-- **GitHub**: [github.com/Aniket-Aladamar](https://github.com/Aniket-Aladamar)
 
 ---
 
